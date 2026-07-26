@@ -2,5 +2,5 @@
 
 [test]
 name: test
-binary: https://github.com/Noapila/Nopile-package-manager-repo/tree/main/binary/test.tar.gz
+binary: https://github.com/Noapila/Nopile-package-manager-repo/main/binary/test.tar.gz
 md5sum: 73e153c6eed084959203641439458d7a
