@@ -5,3 +5,8 @@ name: test
 version: 1.0.0
 binary: https://raw.githubusercontent.com/Noapila/Nopile-package-manager-repo/main/binary/test.tar.gz
 binary-md5sum: 73e153c6eed084959203641439458d7a
+
+[hello]
+name: hello
+version: 2.12.1
+compile: https://raw.githubusercontent.com/Noapila/Nopile-package-manager-repo/main/build/hello.nopbuild
