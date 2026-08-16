@@ -10,3 +10,6 @@ make -j$(nproc)
 
 [INSTALL]
 make install DESTDIR=root
+
+[POST]
+ldconfig
