@@ -14,7 +14,7 @@ compile: https://raw.githubusercontent.com/Noapila/Nopile-package-manager-repo/m
 
 [test2]
 name: test2
-version: 1.0.0
+version: 1.0.1
 binary: https://raw.githubusercontent.com/Noapila/Nopile-package-manager-repo/main/binary/test2.tar.gz
 binary-md5sum: a82edd16e6ddab64dd65064487e92b86
 depends: test3
