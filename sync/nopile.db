@@ -9,7 +9,7 @@ depends: test2
 
 [hello]
 name: hello
-version: 2.12.1
+version: 2.12.3
 compile: https://raw.githubusercontent.com/Noapila/Nopile-package-manager-repo/main/build/hello.nopbuild
 
 [test2]
