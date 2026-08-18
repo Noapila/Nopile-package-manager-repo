@@ -23,4 +23,4 @@ depends: test3
 name: test3
 version: 1.0.0
 binary: https://raw.githubusercontent.com/Noapila/Nopile-package-manager-repo/main/binary/test3.tar.gz
-binary-md5sum: c5c369c002de5689c3e8f9ea58c13eb4
+binary-md5sum: 8446b22144559f4d655e3a8558197ae3
