@@ -2,7 +2,7 @@
 name: hello
 version: 2.12.3
 source-url: https://ftp.gnu.org/gnu/hello/hello-2.12.3.tar.gz
-source-sha256: 8d99142afd92576f30b0cd7cb42a8dc6809998bc5d607d88761f512e26c7db20
+source-sha256: 0d5f60154382fee10b114a1c34e785d8b1f492073ae2d3a6f7b147687b366aa0
 
 [BUILD]
 ./configure --prefix=/usr
