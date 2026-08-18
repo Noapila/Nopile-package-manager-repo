@@ -4,7 +4,7 @@
 name: test
 version: 1.0.0
 binary: https://raw.githubusercontent.com/Noapila/Nopile-package-manager-repo/main/binary/test.tar.gz
-binary-md5sum: 73e153c6eed084959203641439458d7a
+binary-md5sum: d75c9edbf9372ed38ce41bc0ef5d5f2a
 depends: test2
 
 [hello]
