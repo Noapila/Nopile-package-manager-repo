@@ -29,4 +29,4 @@ binary-md5sum: 8446b22144559f4d655e3a8558197ae3
 name: nopile
 version: 1.0.0
 binary: https://raw.githubusercontent.com/Noapila/Nopile-package-manager-repo/main/binary/nopile.tar.zst
-binary-md5sum: 1b755be22862126d4f283d9f2b1b0306
+binary-md5sum: 62c747c7db6a856f7499bdb0e3359206
