@@ -33,6 +33,6 @@ binary-md5sum: dd93d0692eef5cf81e10238225a315e5
 
 [noapila-init]
 name: noapila-init
-version: 0.1.0
+version: 0.1.1
 binary: https://raw.githubusercontent.com/Noapila/Nopile-package-manager-repo/main/binary/noapila-init.tar.zst
-binary-md5sum: 6c32688d475571a70fc7c8a210067113
+binary-md5sum: a594b13f035b1048617fab516f64afee
