@@ -1,8 +1,8 @@
 [INFO]
 name: pcre2
 version: 10.49
-source-url: https://github.com/PCRE2Project/pcre2/releases/download/pcre2-10.49/pcre2-10.49.tar.bz2
-source-sha256: 53c156e1ba416a20da8e65395daa132da0d80e76910424caca3fcdae7831d384
+source-url: https://codeload.github.com/PCRE2Project/pcre2/tar.gz/refs/tags/pcre2-10.49
+source-sha256: 69d04dcddcf9e038aeae8f58b0c07ee5e08abb835ee8daa2bd6acee433dc112c
 
 [BUILD]
 ./configure --prefix=/usr --enable-unicode --enable-jit --enable-pcre2-16 --enable-pcre2-32 --disable-static
