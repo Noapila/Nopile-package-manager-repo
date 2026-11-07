@@ -42,3 +42,13 @@ binary-md5sum: 3447f30e97d8ab0b743cda62d8170468
 name: strace
 version: 7.3
 compile: https://raw.githubusercontent.com/Noapila/Nopile-package-manager-repo/main/build/strace.nopbuild
+
+[libseccomp]
+name: libseccomp
+version: 2.6.0
+compile: https://raw.githubusercontent.com/Noapila/Nopile-package-manager-repo/main/build/libseccomp.nopbuild
+
+[pcre2]
+name: pcre2
+version: 10.49
+compile: https://raw.githubusercontent.com/Noapila/Nopile-package-manager-repo/main/build/pcre2.nopbuild
