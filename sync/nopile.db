@@ -35,7 +35,7 @@ binary-md5sum: 5007cdddbcaa9647aa617e04cf49d16b
 name: noapila-init
 version: 0.9.1
 binary: https://raw.githubusercontent.com/Noapila/Nopile-package-manager-repo/main/binary/noapila-init.tar.zst
-binary-md5sum: 3447f30e97d8ab0b743cda62d8170468
+binary-md5sum: 84f1fd832ec964d97a67add35a8c5aeb
 
 [strace]
 name: strace
